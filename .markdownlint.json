@@ -1,0 +1,30 @@
+{
+  "default": true,
+  "line-height": {
+    "line-length": 60,
+    "code_blocks": true,
+    "code_blocks_line_length": 60
+  },
+  "first-line-heading": true,
+  "heading-increment": true,
+  "required-headings": true,
+  "list-indent": true,
+  "proper-names": true,
+  "blanks-around-tables": true,
+  "blanks-around-lists": true,
+  "blanks-around-headings": true,
+  "no-inline-html": {
+    "allowed_elements": ["u", "br", "li", "ol", "ul", "hr"]
+  },
+  "no-hard-tabs": true,
+  "no-empty-links": true,
+  "no-blanks-blockquote": true,
+  "no-bare-urls": true,
+  "no-alt-text": true,
+  "no-duplicate-heading": true,
+  "no-multiple-blanks": true,
+  "no-reversed-links": true,
+  "no-space-in-links": true,
+  "no-trailing-punctuation": true,
+  "no-trailing-spaces": true
+}
